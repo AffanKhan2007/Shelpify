@@ -1,0 +1,198 @@
+Product ID,Product Name,Category,Type,Unit Price,Total Quantity,Total_Amount,Manufacture_Date,Expiry_Days,Expiry_Date
+5701,Laundry Detergent,Household/Care,Inedible,50.0,90.0,4500.0,2025-12-04,548,2027-06-05
+5702,Dishwashing Liquid,Cleaning,Inedible,55.0,90.0,4950.0,2025-12-04,548,2027-06-05
+5703,Floor Cleaner,Cleaning,Inedible,60.0,90.0,5400.0,2025-12-01,548,2027-06-02
+5704,Toilet Cleaner,Cleaning,Inedible,65.0,90.0,5850.0,2025-12-06,548,2027-06-07
+5705,Glass Cleaner,Cleaning,Inedible,70.0,90.0,6300.0,2025-12-02,548,2027-06-03
+5706,Surface Disinfectant,Cleaning,Inedible,75.0,90.0,6750.0,2025-12-07,548,2027-06-08
+5707,Handwash Refill,Personal Care,Inedible,80.0,90.0,7200.0,2025-12-05,548,2027-06-06
+5708,Bar Soap,Personal Care,Inedible,85.0,90.0,7650.0,2025-12-05,548,2027-06-06
+5709,Shampoo,Personal Care,Inedible,90.0,90.0,8100.0,2025-12-05,548,2027-06-06
+5710,Hair Conditioner,Personal Care,Inedible,95.0,90.0,8550.0,2025-12-02,548,2027-06-03
+5711,Toothpaste,Personal Care,Inedible,100.0,90.0,9000.0,2025-12-07,548,2027-06-08
+5712,Toothbrush,Personal Care,Inedible,105.0,90.0,9450.0,2025-12-03,548,2027-06-04
+5713,Mouthwash,Personal Care,Inedible,110.0,90.0,9900.0,2025-12-04,548,2027-06-05
+5714,Shaving Foam,Personal Care,Inedible,115.0,90.0,10350.0,2025-12-05,548,2027-06-06
+5715,Razor Blades,Personal Care,Inedible,120.0,90.0,10800.0,2025-12-04,548,2027-06-05
+5716,Deodorant Spray,Personal Care,Inedible,125.0,90.0,11250.0,2025-12-01,548,2027-06-02
+5717,Body Lotion,Personal Care,Inedible,130.0,90.0,11700.0,2025-12-05,548,2027-06-06
+5718,Face Wash,Personal Care,Inedible,135.0,90.0,12150.0,2025-12-03,548,2027-06-04
+5719,Shower Gel,Personal Care,Inedible,140.0,90.0,12600.0,2025-12-01,548,2027-06-02
+5720,Hand Sanitizer,Personal Care,Inedible,145.0,90.0,13050.0,2025-12-01,548,2027-06-02
+5721,Wet Wipes,Personal Care,Inedible,150.0,90.0,13500.0,2025-12-01,548,2027-06-02
+5722,Cotton Rolls,Household/Care,Inedible,155.0,100.0,15500.0,2025-12-05,548,2027-06-06
+5723,Garbage Bags,Household/Care,Inedible,160.0,100.0,16000.0,2025-12-01,548,2027-06-02
+5724,Aluminum Foil,Household/Care,Inedible,165.0,100.0,16500.0,2025-12-05,548,2027-06-06
+5725,Cling Wrap,Household/Care,Inedible,170.0,100.0,17000.0,2025-12-02,548,2027-06-03
+5726,Washing Powder,Cleaning,Inedible,175.0,100.0,17500.0,2025-12-05,548,2027-06-06
+5727,Fabric Softener,Cleaning,Inedible,180.0,100.0,18000.0,2025-12-01,548,2027-06-02
+5728,Drain Cleaner,Cleaning,Inedible,185.0,100.0,18500.0,2025-12-03,548,2027-06-04
+5729,Air Freshener,Household/Care,Inedible,190.0,100.0,19000.0,2025-12-03,548,2027-06-04
+5730,Mosquito Repellent,Household/Care,Inedible,195.0,100.0,19500.0,2025-12-06,548,2027-06-07
+5731,Shoe Polish,Household/Care,Inedible,200.0,60.0,12000.0,2025-12-03,548,2027-06-04
+5732,Car Shampoo,Car Care,Inedible,205.0,60.0,12300.0,2025-12-04,548,2027-06-05
+5733,Engine Oil,Car Care,Inedible,210.0,60.0,12600.0,2025-12-07,548,2027-06-08
+5734,Paint Brush Set,Household/Care,Inedible,215.0,60.0,12900.0,2025-12-04,548,2027-06-05
+5735,Laundry Bleach,Cleaning,Inedible,220.0,60.0,13200.0,2025-12-02,548,2027-06-03
+5736,Scrubbing Pads,Cleaning,Inedible,225.0,60.0,13500.0,2025-12-06,548,2027-06-07
+5737,Broom,Household/Care,Inedible,230.0,60.0,13800.0,2025-12-03,548,2027-06-04
+5738,Mop,Household/Care,Inedible,235.0,60.0,14100.0,2025-12-07,548,2027-06-08
+5739,Sponge Pack,Household/Care,Inedible,240.0,60.0,14400.0,2025-12-05,548,2027-06-06
+5740,Toilet Tissue,Paper Products,Inedible,245.0,60.0,14700.0,2025-12-05,548,2027-06-06
+5741,Kitchen Towels,Paper Products,Inedible,250.0,60.0,15000.0,2025-12-01,548,2027-06-02
+5742,Plastic Wrap,Household/Care,Inedible,255.0,60.0,15300.0,2025-12-05,548,2027-06-06
+5743,Body Spray,Personal Care,Inedible,260.0,60.0,15600.0,2025-12-06,548,2027-06-07
+5744,Hair Oil,Personal Care,Inedible,265.0,60.0,15900.0,2025-12-03,548,2027-06-04
+5745,Aftershave,Personal Care,Inedible,270.0,60.0,16200.0,2025-12-01,548,2027-06-02
+5746,Lip Balm,Personal Care,Inedible,275.0,60.0,16500.0,2025-12-04,548,2027-06-05
+5747,Nail Cutter,Personal Care,Inedible,280.0,60.0,16800.0,2025-12-05,548,2027-06-06
+5748,Comb Set,Personal Care,Inedible,285.0,60.0,17100.0,2025-12-07,548,2027-06-08
+5749,Cotton Swabs,Personal Care,Inedible,290.0,60.0,17400.0,2025-12-05,548,2027-06-06
+5750,Electric Bulb,Household/Care,Inedible,295.0,60.0,17700.0,2025-12-04,548,2027-06-05
+4600,Apples,Fruit,Veg,30.0,120.0,3600.0,2025-12-04,7,2025-12-11
+4601,Bananas,Fruit,Veg,32.0,120.0,3840.0,2025-12-07,7,2025-12-14
+4602,Grapes,Fruit,Veg,34.0,120.0,4080.0,2025-12-06,7,2025-12-13
+4603,Oranges,Fruit,Veg,36.0,120.0,4320.0,2025-12-05,7,2025-12-12
+4604,Mangoes,Fruit,Veg,38.0,120.0,4560.0,2025-12-02,7,2025-12-09
+4605,Papaya,Fruit,Veg,40.0,120.0,4800.0,2025-12-06,7,2025-12-13
+4606,Watermelon,Fruit,Veg,42.0,120.0,5040.0,2025-12-03,7,2025-12-10
+4607,Pineapple,Fruit,Veg,44.0,120.0,5280.0,2025-12-03,7,2025-12-10
+4608,Pomegranate,Fruit,Veg,46.0,120.0,5520.0,2025-12-02,7,2025-12-09
+4609,Pears,Fruit,Veg,48.0,120.0,5760.0,2025-12-06,7,2025-12-13
+4610,Tomatoes,Vegetable,Veg,50.0,200.0,10000.0,2025-12-01,7,2025-12-08
+4611,Potatoes,Vegetable,Veg,52.0,200.0,10400.0,2025-12-01,7,2025-12-08
+4612,Onions,Vegetable,Veg,54.0,200.0,10800.0,2025-12-07,7,2025-12-14
+4613,Carrots,Vegetable,Veg,56.0,200.0,11200.0,2025-12-01,7,2025-12-08
+4614,Broccoli,Vegetable,Veg,58.0,200.0,11600.0,2025-12-01,7,2025-12-08
+4615,Cauliflower,Vegetable,Veg,60.0,200.0,12000.0,2025-12-03,7,2025-12-10
+4616,Spinach,Vegetable,Veg,62.0,200.0,12400.0,2025-12-01,7,2025-12-08
+4617,Lettuce,Vegetable,Veg,64.0,200.0,12800.0,2025-12-02,7,2025-12-09
+4618,Cabbage,Vegetable,Veg,66.0,200.0,13200.0,2025-12-07,7,2025-12-14
+4619,Green Peas,Vegetable,Veg,68.0,200.0,13600.0,2025-12-01,7,2025-12-08
+4620,French Beans,Vegetable,Veg,70.0,200.0,14000.0,2025-12-01,7,2025-12-08
+4621,Capsicum,Vegetable,Veg,72.0,200.0,14400.0,2025-12-07,7,2025-12-14
+4622,Cucumber,Vegetable,Veg,74.0,200.0,14800.0,2025-12-04,7,2025-12-11
+4623,Zucchini,Vegetable,Veg,76.0,100.0,7600.0,2025-12-06,7,2025-12-13
+4624,Beetroot,Vegetable,Veg,78.0,100.0,7800.0,2025-12-06,7,2025-12-13
+4625,Radish,Vegetable,Veg,80.0,100.0,8000.0,2025-12-06,7,2025-12-13
+4626,Okra,Vegetable,Veg,82.0,100.0,8200.0,2025-12-05,7,2025-12-12
+4627,Eggplant,Vegetable,Veg,84.0,100.0,8400.0,2025-12-02,7,2025-12-09
+4628,Sweet Corn,Vegetable,Veg,86.0,100.0,8600.0,2025-12-05,7,2025-12-12
+4629,Pumpkin,Vegetable,Veg,88.0,100.0,8800.0,2025-12-03,7,2025-12-10
+4630,Apple Juice,Beverage,Veg,90.0,70.0,6300.0,2025-12-02,7,2025-12-09
+4631,Orange Juice,Beverage,Veg,92.0,70.0,6440.0,2025-12-06,180,2026-06-04
+4632,Mango Juice,Beverage,Veg,94.0,70.0,6580.0,2025-12-06,180,2026-06-04
+4633,Mixed Fruit Juice,Beverage,Veg,96.0,70.0,6720.0,2025-12-01,7,2025-12-08
+4634,Lemonade,Beverage,Veg,98.0,70.0,6860.0,2025-12-02,7,2025-12-09
+4635,Iced Tea,Beverage,Veg,100.0,70.0,7000.0,2025-12-03,7,2025-12-10
+4636,Coconut Water,Beverage,Veg,102.0,70.0,7140.0,2025-12-02,7,2025-12-09
+4637,Sugarcane Juice,Beverage,Veg,104.0,70.0,7280.0,2025-12-03,180,2026-06-01
+4638,Energy Drink,Beverage,Veg,106.0,70.0,7420.0,2025-12-01,7,2025-12-08
+4639,Soda (Bottle),Beverage,Veg,108.0,70.0,7560.0,2025-12-04,7,2025-12-11
+4640,Basmati Rice (5kg),Grain/Staple,Veg,110.0,100.0,11000.0,2025-12-04,365,2026-12-04
+4641,Brown Rice,Grain/Staple,Veg,112.0,100.0,11200.0,2025-12-02,365,2026-12-02
+4642,White Rice,Grain/Staple,Veg,114.0,100.0,11400.0,2025-12-07,365,2026-12-07
+4643,Wheat Flour,Grain/Staple,Veg,116.0,100.0,11600.0,2025-12-07,365,2026-12-07
+4644,Maida,Grain/Staple,Veg,118.0,100.0,11800.0,2025-12-07,7,2025-12-14
+4645,Rava,Grain/Staple,Veg,120.0,100.0,12000.0,2025-12-01,7,2025-12-08
+4646,Oats,Grain/Staple,Veg,122.0,100.0,12200.0,2025-12-03,7,2025-12-10
+4647,Cornflakes,Grain/Staple,Veg,124.0,100.0,12400.0,2025-12-06,7,2025-12-13
+4648,Muesli,Grain/Staple,Veg,126.0,100.0,12600.0,2025-12-03,7,2025-12-10
+4649,Poha,Grain/Staple,Veg,128.0,100.0,12800.0,2025-12-04,7,2025-12-11
+4650,Vermicelli,Grain/Staple,Veg,130.0,100.0,13000.0,2025-12-02,7,2025-12-09
+4651,Pasta,Grain/Staple,Veg,132.0,100.0,13200.0,2025-12-06,7,2025-12-13
+4652,Macaroni,Grain/Staple,Veg,134.0,100.0,13400.0,2025-12-04,7,2025-12-11
+4653,Noodles,Grain/Staple,Veg,136.0,100.0,13600.0,2025-12-01,7,2025-12-08
+4654,Bread Loaf,Grain/Staple,Veg,138.0,100.0,13800.0,2025-12-01,7,2025-12-08
+4655,Sandwich Bread,Grain/Staple,Veg,140.0,75.0,10500.0,2025-12-02,7,2025-12-09
+4656,Burger Buns,Grain/Staple,Veg,142.0,75.0,10650.0,2025-12-02,7,2025-12-09
+4657,Pizza Base,Grain/Staple,Veg,144.0,75.0,10800.0,2025-12-07,7,2025-12-14
+4658,Tortilla Wraps,Grain/Staple,Veg,146.0,75.0,10950.0,2025-12-02,7,2025-12-09
+4659,Garlic Bread,Grain/Staple,Veg,148.0,75.0,11100.0,2025-12-03,7,2025-12-10
+4660,Plain Yoghurt,Dairy/Eggs,Veg,150.0,75.0,11250.0,2025-12-05,7,2025-12-12
+4661,Flavoured Yoghurt,Dairy/Eggs,Veg,152.0,75.0,11400.0,2025-12-06,7,2025-12-13
+4662,Paneer,Dairy/Eggs,Veg,154.0,75.0,11550.0,2025-12-03,7,2025-12-10
+4663,Cheese Slices,Dairy/Eggs,Veg,156.0,75.0,11700.0,2025-12-06,7,2025-12-13
+4664,Cheese Block,Dairy/Eggs,Veg,158.0,75.0,11850.0,2025-12-02,7,2025-12-09
+4665,Butter,Dairy/Eggs,Veg,160.0,75.0,12000.0,2025-12-07,7,2025-12-14
+4666,Ghee,Dairy/Eggs,Veg,162.0,75.0,12150.0,2025-12-07,7,2025-12-14
+4667,Fresh Cream,Dairy/Eggs,Veg,164.0,75.0,12300.0,2025-12-04,7,2025-12-11
+4668,Whipping Cream,Dairy/Eggs,Veg,166.0,75.0,12450.0,2025-12-04,7,2025-12-11
+4669,Buttermilk,Dairy/Eggs,Veg,168.0,75.0,12600.0,2025-12-03,7,2025-12-10
+4670,Lassi Sweet,Beverage,Veg,170.0,75.0,12750.0,2025-12-06,7,2025-12-13
+4671,Lassi Salted,Beverage,Veg,172.0,75.0,12900.0,2025-12-07,7,2025-12-14
+4672,Milk (1L),Dairy/Eggs,Veg,174.0,200.0,34800.0,2025-12-05,7,2025-12-12
+4673,Toned Milk (1L),Dairy/Eggs,Veg,176.0,200.0,35200.0,2025-12-06,7,2025-12-13
+4674,Skimmed Milk (1L),Dairy/Eggs,Veg,178.0,200.0,35600.0,2025-12-03,7,2025-12-10
+4675,Soy Milk,Beverage,Veg,180.0,100.0,18000.0,2025-12-04,7,2025-12-11
+4676,Almond Milk,Beverage,Veg,182.0,100.0,18200.0,2025-12-05,7,2025-12-12
+4677,Coconut Milk,Beverage,Veg,184.0,100.0,18400.0,2025-12-04,7,2025-12-11
+4678,Condensed Milk,Dairy/Eggs,Veg,186.0,100.0,18600.0,2025-12-01,7,2025-12-08
+4679,Milk Powder,Dairy/Eggs,Veg,188.0,100.0,18800.0,2025-12-03,7,2025-12-10
+4680,Potato Chips,Snack/Confectionery,Veg,190.0,90.0,17100.0,2025-12-03,7,2025-12-10
+4681,Corn Puffs,Snack/Confectionery,Veg,192.0,90.0,17280.0,2025-12-04,7,2025-12-11
+4682,Nacho Chips,Snack/Confectionery,Veg,194.0,90.0,17460.0,2025-12-06,7,2025-12-13
+4683,Salted Peanuts,Snack/Confectionery,Veg,196.0,90.0,17640.0,2025-12-04,7,2025-12-11
+4684,Roasted Chana,Snack/Confectionery,Veg,198.0,90.0,17820.0,2025-12-01,7,2025-12-08
+4685,Trail Mix,Snack/Confectionery,Veg,200.0,90.0,18000.0,2025-12-01,7,2025-12-08
+4686,Granola Bar,Snack/Confectionery,Veg,202.0,90.0,18180.0,2025-12-05,7,2025-12-12
+4687,Chocolate Bar,Snack/Confectionery,Veg,204.0,90.0,18360.0,2025-12-07,7,2025-12-14
+4688,Jelly Candy,Snack/Confectionery,Veg,206.0,90.0,18540.0,2025-12-05,7,2025-12-12
+4689,Toffee Mix,Snack/Confectionery,Veg,208.0,90.0,18720.0,2025-12-01,7,2025-12-08
+4690,Cashews,Dry Fruit/Nuts,Veg,210.0,40.0,8400.0,2025-12-07,7,2025-12-14
+4691,Almonds,Dry Fruit/Nuts,Veg,212.0,40.0,8480.0,2025-12-04,7,2025-12-11
+4692,Walnuts,Dry Fruit/Nuts,Veg,214.0,40.0,8560.0,2025-12-05,7,2025-12-12
+4693,Pistachios,Dry Fruit/Nuts,Veg,216.0,40.0,8640.0,2025-12-06,7,2025-12-13
+4694,Raisins,Dry Fruit/Nuts,Veg,218.0,40.0,8720.0,2025-12-04,7,2025-12-11
+4695,Dates,Dry Fruit/Nuts,Veg,220.0,40.0,8800.0,2025-12-04,7,2025-12-11
+4696,Figs,Dry Fruit/Nuts,Veg,222.0,40.0,8880.0,2025-12-04,7,2025-12-11
+4697,Sunflower Seeds,Dry Fruit/Nuts,Veg,224.0,40.0,8960.0,2025-12-01,7,2025-12-08
+4698,Chia Seeds,Dry Fruit/Nuts,Veg,226.0,40.0,9040.0,2025-12-05,7,2025-12-12
+4699,Flax Seeds,Dry Fruit/Nuts,Veg,228.0,40.0,9120.0,2025-12-01,7,2025-12-08
+4201,Chicken Breast (Kg),Meat/Protein,Non-Veg,200.0,50.0,10000.0,2025-12-01,7,2025-12-08
+4202,Chicken Thighs (Kg),Meat/Protein,Non-Veg,205.0,50.0,10250.0,2025-12-04,7,2025-12-11
+4203,Chicken Wings (Kg),Meat/Protein,Non-Veg,210.0,50.0,10500.0,2025-12-04,7,2025-12-11
+4204,Whole Chicken,Meat/Protein,Non-Veg,215.0,50.0,10750.0,2025-12-07,7,2025-12-14
+4205,Chicken Mince,Meat/Protein,Non-Veg,220.0,50.0,11000.0,2025-12-06,7,2025-12-13
+4206,Mutton Curry Cut,Meat/Protein,Non-Veg,225.0,50.0,11250.0,2025-12-01,7,2025-12-08
+4207,Mutton Mince,Meat/Protein,Non-Veg,230.0,50.0,11500.0,2025-12-05,7,2025-12-12
+4208,Lamb Chops,Meat/Protein,Non-Veg,235.0,50.0,11750.0,2025-12-02,7,2025-12-09
+4211,Fresh Fish (Rohu),Seafood,Non-Veg,250.0,50.0,12500.0,2025-12-02,7,2025-12-09
+4212,Fresh Prawns,Seafood,Non-Veg,255.0,50.0,12750.0,2025-12-03,7,2025-12-10
+4213,Salmon Fillet,Seafood,Non-Veg,260.0,50.0,13000.0,2025-12-02,7,2025-12-09
+4214,Tuna Steak,Seafood,Non-Veg,265.0,50.0,13250.0,2025-12-03,7,2025-12-10
+4215,Crab Meat,Seafood,Non-Veg,270.0,50.0,13500.0,2025-12-01,7,2025-12-08
+4216,Duck Eggs (Dozen),Dairy/Eggs,Non-Veg,275.0,50.0,13750.0,2025-12-05,7,2025-12-12
+4217,Quail Eggs (Dozen),Dairy/Eggs,Non-Veg,280.0,50.0,14000.0,2025-12-07,7,2025-12-14
+4218,Egg Pack (Dozen),Dairy/Eggs,Non-Veg,285.0,50.0,14250.0,2025-12-06,7,2025-12-13
+4219,Chicken Nuggets,Frozen/Processed,Non-Veg,290.0,50.0,14500.0,2025-12-05,7,2025-12-12
+4220,Chicken Sausages,Frozen/Processed,Non-Veg,295.0,50.0,14750.0,2025-12-04,7,2025-12-11
+4221,Fish Fingers,Frozen/Processed,Non-Veg,300.0,50.0,15000.0,2025-12-07,7,2025-12-14
+4222,Prawn Popcorn,Frozen/Processed,Non-Veg,305.0,50.0,15250.0,2025-12-03,7,2025-12-10
+4223,Meatballs Pack,Frozen/Processed,Non-Veg,310.0,50.0,15500.0,2025-12-05,7,2025-12-12
+4224,Chicken Salami,Frozen/Processed,Non-Veg,315.0,50.0,15750.0,2025-12-03,7,2025-12-10
+4225,Turkey Salami,Frozen/Processed,Non-Veg,320.0,50.0,16000.0,2025-12-06,365,2026-12-06
+4226,Chicken Strips,Frozen/Processed,Non-Veg,325.0,50.0,16250.0,2025-12-07,7,2025-12-14
+4228,Cold Cut Platter,Frozen/Processed,Non-Veg,335.0,50.0,16750.0,2025-12-04,365,2026-12-04
+4229,Canned Tuna,Canned/Processed,Non-Veg,340.0,50.0,17000.0,2025-12-03,7,2025-12-10
+4230,Canned Sardines,Canned/Processed,Non-Veg,345.0,50.0,17250.0,2025-12-01,7,2025-12-08
+4232,Canned Chicken,Canned/Processed,Non-Veg,355.0,50.0,17750.0,2025-12-03,7,2025-12-10
+4233,Canned Mackerel,Canned/Processed,Non-Veg,360.0,50.0,18000.0,2025-12-04,7,2025-12-11
+4234,Smoked Salmon,Seafood,Non-Veg,365.0,50.0,18250.0,2025-12-06,7,2025-12-13
+4235,Smoked Sausages,Frozen/Processed,Non-Veg,370.0,50.0,18500.0,2025-12-03,365,2026-12-03
+4236,Chicken Burger Patty,Frozen/Processed,Non-Veg,375.0,50.0,18750.0,2025-12-01,7,2025-12-08
+4237,Fish Burger Patty,Frozen/Processed,Non-Veg,380.0,50.0,19000.0,2025-12-03,7,2025-12-10
+4238,Mutton Seekh Kebabs,Frozen/Processed,Non-Veg,385.0,50.0,19250.0,2025-12-02,7,2025-12-09
+4239,Chicken Seekh Kebabs,Frozen/Processed,Non-Veg,390.0,50.0,19500.0,2025-12-02,7,2025-12-09
+4240,Chicken Meatballs,Frozen/Processed,Non-Veg,395.0,50.0,19750.0,2025-12-06,7,2025-12-13
+4241,Breaded Fish Fillet,Frozen/Processed,Non-Veg,400.0,50.0,20000.0,2025-12-07,7,2025-12-14
+4242,Shrimp Ring,Frozen/Processed,Non-Veg,405.0,50.0,20250.0,2025-12-01,7,2025-12-08
+4243,Chicken Popcorn,Frozen/Processed,Non-Veg,410.0,50.0,20500.0,2025-12-04,7,2025-12-11
+4244,Roast Chicken Slices,Frozen/Processed,Non-Veg,415.0,50.0,20750.0,2025-12-03,7,2025-12-10
+4246,Mutton Liver,Meat/Protein,Non-Veg,425.0,50.0,21250.0,2025-12-04,7,2025-12-11
+4247,Chicken Liver,Meat/Protein,Non-Veg,430.0,50.0,21500.0,2025-12-01,7,2025-12-08
+4248,Fish Roe,Seafood,Non-Veg,435.0,50.0,21750.0,2025-12-01,7,2025-12-08
+4249,Oyster Pack,Seafood,Non-Veg,440.0,50.0,22000.0,2025-12-04,7,2025-12-11
+4250,Mussels Pack,Seafood,Non-Veg,445.0,50.0,22250.0,2025-12-06,7,2025-12-13
+4701,Blue Prime Hydration,Beverage,Veg,300.0,60.0,18000.0,2025-11-21,180,2026-05-20
+4702,Prime Hydration,Beverage,Veg,250.5,50.0,12525.0,2025-11-28,180,2026-05-27
