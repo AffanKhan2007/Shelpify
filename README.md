@@ -4,79 +4,84 @@ Shelpify is a lightweight, modern, and modular inventory management application 
 It helps small and medium stores efficiently manage their products, stock levels, discounts, updates, and more — all from a clean and intuitive interface.
 
 🚀 Features
+
 🔹 Product Management
 
-Add new products with:
+  - Add new products with:
 
-Product ID
+  - Product ID
 
-Name
+  - Name
 
-Category
+  - Category
 
-Type (Veg / Non-Veg / Other)
+  - Type (Veg / Non-Veg / Other)
 
-Price, Stock, and Value
+  - Price, Stock, and Value
 
-Auto-generate IDs for new items
+  - Auto-generate IDs for new items
 
-View, search, and edit existing products
+  - View, search, and edit existing products
+
 
 🔹 Inventory Overview
 
-Complete dashboard showing:
+  - Complete dashboard showing:
 
-Total products
+  - Total products
 
-Total stock quantity
+  - Total stock quantity
 
-Total inventory value
+  - Total inventory value
 
-Low-stock indicators
+  - Low-stock indicators
+
 
 🔹 Discount Module
 
-Apply discounts item-wise or category-wise
+  - Apply discounts item-wise or category-wise
 
-Supports custom % discounts on:
+  - Supports custom % discounts on:
 
-Products nearing expiry
+  - Products nearing expiry
 
-Overstock situations
+  - Overstock situations
 
-Includes an Auto Discount Dummy Tab where users can experiment without affecting live data
+  - Includes an Auto Discount Dummy Tab where users can experiment without affecting live data
+
 
 🔹 Updates Panel
 
-Single location to show recent changes, including:
+  - Single location to show recent changes, including:
 
-New items added
+  - New items added
 
-Stock changes
+  - Stock changes
 
-Discounts applied
+  - Discounts applied
 
-Uses a built-in “Updates” icon for easy identification
+  - Uses a built-in “Updates” icon for easy identification
+
 
 🔹 Navigation System
 
-Smooth page navigation using:
+  Smooth page navigation using:
 
-st.session_state.current_page = "add_product"
-st.rerun()
+    st.session_state.current_page = "add_product"
+    st.rerun()
 
+  Mimics multi-page behavior inside a single Streamlit script
 
-Mimics multi-page behavior inside a single Streamlit script
 
 🔹 User-Friendly UI
 
-Clean welcome page with instructions
+  - Clean welcome page with instructions
 
-Simple sidebar navigation
+  - Simple sidebar navigation
 
-Error handling for invalid inputs (negative dimensions, invalid coordinates, etc.)
+  - Error handling for invalid inputs (negative dimensions, invalid coordinates, etc.)
 
-Visual diagrams and plots for geometric/mathematical tools (if enabled)
+  - Visual diagrams and plots for geometric/mathematical tools (if enabled)
 
 🏗️ Project Structure
 Shelpify/
@@ -111,46 +116,50 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📘 How to Use
-Welcome Page
+  - Welcome Page
 
-Shows the purpose of Shelpify and links to all modules.
+  - Shows the purpose of Shelpify and links to all modules.
 
-Add Product
+  - Add Product
 
-Enter product details → Validate → Save to database.
+  - Enter product details → Validate → Save to database.
 
-Inventory
+  - Inventory
 
-Displays all items in a searchable, sortable table with totals.
+  - Displays all items in a searchable, sortable table with totals.
 
-Discount Tab
+  - Discount Tab
 
-Test or apply discounts category-wise or item-wise.
+  - Test or apply discounts category-wise or item-wise.
 
-Updates
+  - Updates
 
-Shows the latest actions performed by the user.
+  - Shows the latest actions performed by the user.
+
 
 🛠️ Tech Stack
 
-Python 3.10+
+  1. Python 3.10+
 
-Streamlit
+  2. Streamlit
 
-Pandas
+  3. Pandas
 
-NumPy
+  4. NumPy
 
-Matplotlib (for diagrams if enabled)
+  5. Matplotlib (for diagrams if enabled)
+    
+  6. Altair
+
 
 🌱 Future Enhancements
 
-Barcode scanning integration
+  - Barcode scanning integration
 
-GST & tax engine
+  - GST & tax engine
 
-Customer and purchase history tracking
+  - Customer and purchase history tracking
 
-Role-based login
+  - Role-based login
 
-Cloud sync and multi-store support
+  - Cloud sync and multi-store support
